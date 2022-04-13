@@ -1,1 +1,1 @@
-![test] (https://duckduckgo.com/?q=github&t=braveed&iar=images&iax=images&ia=images&iai=https%3A%2F%2F2sxc.org%2FPortals%2F0%2Fadam%2FContent%2F4IqBjx3pXEC7a7-fVX2GBQ%2FImage%2Fgithub-logo.png%3Fw%3D1080%26scale%3Dboth%26quality%3D50)
+![test](https://duckduckgo.com/?q=github&t=braveed&iar=images&iax=images&ia=images&iai=https%3A%2F%2F2sxc.org%2FPortals%2F0%2Fadam%2FContent%2F4IqBjx3pXEC7a7-fVX2GBQ%2FImage%2Fgithub-logo.png%3Fw%3D1080%26scale%3Dboth%26quality%3D50)
